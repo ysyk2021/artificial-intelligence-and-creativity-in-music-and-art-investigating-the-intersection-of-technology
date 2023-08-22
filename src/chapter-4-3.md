@@ -1,5 +1,4 @@
-Interactive Installations and Exhibitions
-========================================================================================
+
 
 Interactive installations and exhibitions are a popular avenue for artists to showcase their work and engage with audiences in new and exciting ways. With the integration of artificial intelligence (AI) into these installations and exhibitions, artists are able to create interactive experiences that respond dynamically to user input and provide personalized and immersive experiences.
 

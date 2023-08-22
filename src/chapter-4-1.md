@@ -1,5 +1,4 @@
-Generative Art and Visualizations
-================================================================================
+
 
 One of the most exciting and innovative uses of AI in art is in the realm of generative art and visualizations. Using machine learning algorithms and other AI techniques, artists are able to create unique and complex works of art that are both beautiful and thought-provoking. In this chapter, we will explore some of the most creative applications of AI in generative art and visualizations.
 

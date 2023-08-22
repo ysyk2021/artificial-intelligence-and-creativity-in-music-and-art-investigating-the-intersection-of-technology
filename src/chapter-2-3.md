@@ -1,5 +1,4 @@
-Generative Models and Algorithms in Art
-======================================================================================
+
 
 Artificial intelligence (AI) has rapidly become an important tool for creativity in music and art. One area of AI that is particularly relevant to the arts is generative models and algorithms, which enable computers to generate new content based on learned patterns and structures.
 

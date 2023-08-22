@@ -1,5 +1,4 @@
-Emerging Technologies and Trends
-==============================================================================
+
 
 As the intersection of artificial intelligence (AI) and creativity continues to evolve, there are a number of emerging technologies and trends that are shaping the future of AI in music and art.
 

@@ -1,5 +1,4 @@
-The Intersection of Technology and the Arts
-=========================================================
+
 
 The relationship between technology and the arts has a long and complex history. From the earliest cave paintings to the latest virtual reality experiences, artists have always used innovative tools and techniques to push the boundaries of creative expression.
 

@@ -1,5 +1,4 @@
-Performance and Collaboration with AI
-======================================================================================
+
 
 Artificial intelligence (AI) technology is increasingly being integrated into live music performances and collaborative music-making, offering new possibilities for musicians and audiences alike. In this chapter, we explore the creative applications of AI in music performance and collaboration, examining their strengths, limitations, and potential implications for the future of musical expression.
 

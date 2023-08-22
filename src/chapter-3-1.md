@@ -1,5 +1,4 @@
-Composition and Songwriting with AI
-====================================================================================
+
 
 Artificial intelligence (AI) is increasingly being used to create music compositions and aid songwriting, offering new possibilities for musical creativity. In this chapter, we explore the creative applications of AI in music composition and songwriting, examining their strengths, limitations, and implications for the future of musical expression.
 

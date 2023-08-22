@@ -1,5 +1,4 @@
-Public Perception and Acceptance of AI in the Arts
-================================================================================================================
+
 
 The increasing use of artificial intelligence (AI) in the arts raises a number of ethical and social questions. In this chapter, we will explore the public perception and acceptance of AI in the arts, as well as some of the concerns and challenges associated with this emerging field.
 

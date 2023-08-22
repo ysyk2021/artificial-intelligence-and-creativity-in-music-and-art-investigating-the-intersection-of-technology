@@ -1,5 +1,4 @@
-Definition and Overview of Artificial Intelligence (AI)
-=====================================================================
+
 
 Artificial intelligence (AI) is a field of computer science that seeks to create intelligent machines capable of performing tasks that typically require human-level intelligence, such as visual perception, speech recognition, decision-making, and natural language processing.
 

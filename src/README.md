@@ -1,4 +1,4 @@
-# Introduction
+
 
 Artificial intelligence (AI) has become increasingly prevalent in the arts, offering new opportunities for creative expression and innovation. In this book, we will explore the intersection of technology and the arts, investigating how AI is transforming music and art.
 

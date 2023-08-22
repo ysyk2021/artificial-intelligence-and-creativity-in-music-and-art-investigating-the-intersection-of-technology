@@ -1,5 +1,4 @@
-Transparency and Authenticity in AI-Generated Works
-=================================================================================================================
+
 
 As artificial intelligence (AI) becomes more prevalent in the world of art and music, it is important to consider the ethical and social implications of its use. One key consideration is the issue of transparency and authenticity in AI-generated works.
 

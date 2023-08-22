@@ -1,5 +1,4 @@
-Natural Language Processing (NLP) in Creative Content
-====================================================================================================
+
 
 Artificial intelligence (AI) has emerged as a powerful tool for creativity in music and art. One area where AI is making significant contributions is in natural language processing (NLP), the branch of AI concerned with enabling computers to understand, analyze, and generate human language.
 

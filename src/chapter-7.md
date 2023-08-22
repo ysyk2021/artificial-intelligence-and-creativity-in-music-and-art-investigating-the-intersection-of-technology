@@ -1,5 +1,4 @@
-Chapter 6: The Future of AI in Music and Art
-============================================
+
 
 As AI continues to advance, its potential impact on the world of music and art is becoming increasingly clear. In this chapter, we will examine some of the emerging technologies and trends that are shaping the future of AI in music and art, as well as the challenges that must be overcome and the potential impact on society and the industry.
 

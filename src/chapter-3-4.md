@@ -1,5 +1,4 @@
-Music Recommendation and Discovery
-===================================================================================
+
 
 Artificial intelligence (AI) has the potential to transform the way we discover and listen to music. In this chapter, we will explore some of the creative applications of AI in music, focusing specifically on music recommendation and discovery.
 

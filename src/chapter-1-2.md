@@ -1,5 +1,4 @@
-The Role of AI in Creative Industries
-===================================================
+
 
 Artificial intelligence (AI) has become an increasingly important tool for artists, designers, and musicians seeking to explore new forms of creative expression. From music composition to visual arts, AI techniques have enabled creators to develop new works that blur the boundaries between human and machine creativity.
 

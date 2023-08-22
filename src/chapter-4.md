@@ -1,5 +1,4 @@
-Chapter 3: Creative Applications of AI in Art
-=============================================
+
 
 Artificial intelligence (AI) is transforming the way we create and experience art, providing new tools and techniques for artists to explore and experiment with. In this chapter, we will examine some of the most exciting and innovative ways that AI is being used in art today, including generative art and visualizations, image and video editing with AI, interactive installations and exhibitions, and virtual and augmented reality art.
 

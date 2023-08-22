@@ -1,5 +1,4 @@
-Overview of AI Techniques in Music and Art
-=========================================================================================
+
 
 Artificial intelligence (AI) has become an increasingly important tool for artists and musicians seeking to explore new forms of creative expression. From music composition to visual arts, AI techniques have enabled artists to create new works that blur the boundaries between human and machine creativity. In this chapter, we provide an overview of the key AI techniques used in music and art, exploring their strengths, limitations, and potential implications for the future of the arts.
 

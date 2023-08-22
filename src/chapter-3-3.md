@@ -1,5 +1,4 @@
-Audio Synthesis and Sound Design
-=================================================================================
+
 
 Artificial intelligence (AI) is increasingly being used in music production to enable new forms of audio synthesis and sound design. In this chapter, we will explore some of the creative applications of AI in these areas.
 
