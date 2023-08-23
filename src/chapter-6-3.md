@@ -1,5 +1,4 @@
 
-
 Google's DeepDream Art Project is a fascinating case study of the intersection of artificial intelligence (AI) and art. This project uses deep learning algorithms to generate visually stunning and surreal images. In this chapter, we will explore how the DeepDream Art Project works, and what it tells us about the potential for AI to enhance artistic creativity.
 
 How DeepDream Works

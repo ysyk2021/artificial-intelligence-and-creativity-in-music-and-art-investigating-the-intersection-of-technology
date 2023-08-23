@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has a long history in music and art, with early experiments dating back to the mid-20th century. However, recent advances in machine learning and deep learning techniques have opened up new possibilities for the integration of AI into musical and artistic processes. In this chapter, we explore the foundations of AI in music and art, examining the machine learning and deep learning techniques that underpin modern AI-based creative applications.
 
 Machine Learning in Music

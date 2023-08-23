@@ -1,5 +1,4 @@
 
-
 The use of artificial intelligence (AI) in the arts raises important ethical and social questions, particularly around issues of algorithmic bias and fairness. In this chapter, we will explore some of the key concerns and challenges associated with these issues.
 
 Algorithmic Bias and Fairness

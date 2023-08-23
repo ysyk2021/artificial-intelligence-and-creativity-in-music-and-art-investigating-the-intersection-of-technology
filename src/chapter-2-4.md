@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has emerged as a powerful tool for creativity in music and art. One area where AI is making significant contributions is in natural language processing (NLP), the branch of AI concerned with enabling computers to understand, analyze, and generate human language.
 
 NLP is being used in a wide range of creative applications, from generating lyrics and poetry to creating interactive art installations. In this chapter, we will explore the foundations of NLP in music and art, examining its key concepts and applications.

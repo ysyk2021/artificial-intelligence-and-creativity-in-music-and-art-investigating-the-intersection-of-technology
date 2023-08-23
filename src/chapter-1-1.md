@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a field of computer science that seeks to create intelligent machines capable of performing tasks that typically require human-level intelligence, such as visual perception, speech recognition, decision-making, and natural language processing.
 
 AI is based on the idea that machines can be designed to perform tasks in a way that mimics human intelligence. This can be achieved through a variety of approaches, including rule-based systems, machine learning, and deep learning.

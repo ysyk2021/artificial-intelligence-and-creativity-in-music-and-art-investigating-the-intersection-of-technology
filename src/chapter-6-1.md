@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is increasingly being used to generate music compositions, with a number of companies and organizations leveraging the technology to create new types of musical works. One such organization is AIVA, a Luxembourg-based startup that has developed an AI platform capable of generating original music compositions across a range of genres and styles.
 
 In this chapter, we will explore AIVA's AI-generated music compositions, examining their creative potential, technical underpinnings, and broader implications for the future of music.

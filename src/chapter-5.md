@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming creative industries, enabling new forms of artistic expression and pushing the boundaries of what is possible. However, the use of AI in the arts also raises important ethical and social considerations that must be addressed in order to ensure that these developments happen in a responsible and sustainable manner. In this chapter, we will examine key ethical and social implications of AI in the arts, including issues related to ownership and authorship of AI-generated works, algorithmic bias and fairness, transparency and authenticity in AI-generated works, and public perception and acceptance of AI in the arts.
 
 Ownership and Authorship of AI-Generated Works

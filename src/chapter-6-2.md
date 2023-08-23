@@ -1,5 +1,4 @@
 
-
 In this chapter, we will examine the work of artist and designer Refik Anadol, who is known for his innovative use of artificial intelligence (AI) in creating immersive art installations. Anadol's work demonstrates the potential for AI to enhance creativity in the arts, while also challenging traditional notions of authorship and control.
 
 Background on Refik Anadol

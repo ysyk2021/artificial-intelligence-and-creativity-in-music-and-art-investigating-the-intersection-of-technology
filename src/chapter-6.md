@@ -1,5 +1,4 @@
 
-
 AI is transforming the way we create and experience music and art, enabling new forms of expression and pushing the boundaries of what is possible. In this chapter, we will examine some of the most innovative and groundbreaking case studies of AI in music and art, including AIVA's AI-generated music compositions, Refik Anadol's data-driven art installations, Google's DeepDream art project, and The Next Rembrandt's AI-generated painting.
 
 AIVA's AI-Generated Music Compositions

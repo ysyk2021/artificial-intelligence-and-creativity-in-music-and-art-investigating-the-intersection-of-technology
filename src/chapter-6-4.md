@@ -1,5 +1,4 @@
 
-
 One high-profile example of the intersection of artificial intelligence (AI) and art is the "Next Rembrandt" project, an AI-generated painting created by a team of artists, engineers, and data scientists. In this chapter, we will explore the development and impact of this project.
 
 Background

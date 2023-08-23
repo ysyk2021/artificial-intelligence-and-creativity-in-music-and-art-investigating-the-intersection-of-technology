@@ -1,5 +1,4 @@
 
-
 As AI continues to transform the world of music and art, there are several challenges that must be addressed to ensure that the technology is used effectively and ethically. In this chapter, we will explore some of the challenges facing the future development and implementation of AI in music and art.
 
 Challenge 1: Bias in AI

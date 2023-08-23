@@ -1,5 +1,4 @@
 
-
 The emergence of virtual and augmented reality (VR/AR) technologies has revolutionized the art world by providing new ways to create and experience art. By incorporating artificial intelligence (AI) into these technologies, artists are able to further expand their creative possibilities. In this chapter, we will explore some of the most innovative and creative applications of AI in VR/AR art.
 
 AI-Assisted Creation of VR/AR Art
