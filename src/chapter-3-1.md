@@ -1,5 +1,4 @@
-Chapter 6: Composition and Songwriting with AI
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the fascinating world of composition and songwriting with Artificial Intelligence (AI) within the context of technology, music, and art. The integration of AI algorithms into the creative process has revolutionized the way music is composed, offering new tools, techniques, and possibilities for artists. This chapter delves into the potential of AI in composition and songwriting, the impact on artistic expression, and the evolving relationship between humans and machines.
 

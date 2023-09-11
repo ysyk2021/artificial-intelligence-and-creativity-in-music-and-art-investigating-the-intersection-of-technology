@@ -1,5 +1,4 @@
-Chapter 9: Transparency and Authenticity in AI-Generated Works
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical aspects of transparency and authenticity in the context of AI-generated works within the intersection of artificial intelligence (AI), technology, music, and art. AI's role in creating artistic works raises important questions about authorship, creative process, and the ethical considerations surrounding transparency and authenticity. This chapter examines these issues and their implications.
 

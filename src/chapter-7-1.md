@@ -1,5 +1,4 @@
-Chapter 12: Emerging Technologies and Trends
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting world of emerging technologies and trends within the intersection of artificial intelligence (AI), technology, music, and art. The rapid advancements in technology continue to shape and redefine artistic practices, offering new possibilities for creativity and expression. This chapter examines some of the most notable emerging technologies and trends in the field.
 

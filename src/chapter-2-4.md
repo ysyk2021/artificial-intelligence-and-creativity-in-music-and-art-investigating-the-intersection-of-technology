@@ -1,5 +1,4 @@
-Chapter 10: Natural Language Processing (NLP) in Creative Content
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the fascinating realm of Natural Language Processing (NLP) and its intersection with creativity in music and art. NLP refers to the field of artificial intelligence that focuses on understanding and processing human language. This chapter delves into the techniques, applications, and artistic implications of NLP in generating and analyzing creative content.
 

@@ -1,5 +1,4 @@
-Chapter 7: Public Perception and Acceptance of AI in the Arts
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the fascinating realm of public perception and acceptance of artificial intelligence (AI) in the arts within the context of technology, music, and art. As AI algorithms increasingly contribute to creative processes and artistic expressions, it is essential to understand how the public perceives and embraces the role of AI in shaping the artistic landscape. This chapter examines the impact of AI on the perception of art, the challenges associated with acceptance, and the evolving relationship between AI and human creativity.
 

@@ -1,5 +1,4 @@
-Chapter 8: Virtual and Augmented Reality Art
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting realm of virtual and augmented reality (VR/AR) art and its intersection with artificial intelligence (AI) and creativity. VR/AR technologies offer immersive experiences that merge the physical and digital worlds, providing artists with new mediums for expression. This chapter explores the techniques, applications, and artistic implications of VR/AR art.
 

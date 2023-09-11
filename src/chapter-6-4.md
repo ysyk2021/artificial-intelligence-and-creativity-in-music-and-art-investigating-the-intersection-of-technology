@@ -1,5 +1,4 @@
-Chapter 5: The Next Rembrandt's AI-Generated Painting
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the groundbreaking project known as "The Next Rembrandt" and explore the intersection of artificial intelligence (AI), technology, and art. This project aimed to create a new painting in the style of the renowned Dutch master, Rembrandt van Rijn, using AI algorithms and data analysis. We will examine the techniques, implications, and impact of this AI-generated painting.
 

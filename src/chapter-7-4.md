@@ -1,5 +1,4 @@
-Chapter 10: Potential Impact on Society and the Industry
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential impact of artificial intelligence (AI) on society and the creative industry within the context of technology, music, and art. As AI algorithms continue to advance and shape creative practices, it is crucial to examine the wide-ranging effects on cultural production, artistic expression, and the broader societal implications. This chapter delves into the transformative potential of AI, the challenges and opportunities it presents, and its impact on various stakeholders.
 

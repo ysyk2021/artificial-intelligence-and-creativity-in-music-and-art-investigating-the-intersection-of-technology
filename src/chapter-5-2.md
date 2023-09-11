@@ -1,5 +1,4 @@
-Chapter 10: Algorithmic Bias and Fairness
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical issue of algorithmic bias and fairness within the intersection of artificial intelligence (AI), technology, music, and art. As AI algorithms play an increasingly prominent role in creative processes, it is essential to address the biases inherent in these systems and strive for fairness and inclusivity. This chapter examines the concept of algorithmic bias, its impact on music and art, and the importance of promoting fairness in AI-driven creative endeavors.
 

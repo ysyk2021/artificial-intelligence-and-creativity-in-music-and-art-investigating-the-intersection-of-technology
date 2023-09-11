@@ -1,5 +1,4 @@
-Chapter 8: Performance and Collaboration with AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the captivating realm of performance and collaboration with artificial intelligence (AI) within the context of technology, music, and art. As AI algorithms continue to evolve and become integrated into creative practices, artists and performers are exploring new ways to interact, collaborate, and co-create with AI systems. This chapter explores the transformative potential of AI in live performances, the dynamics of human-AI collaboration on stage, and the implications for artistic expression.
 

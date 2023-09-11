@@ -1,5 +1,4 @@
-Chapter 7: Image and Video Editing with AI
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting world of image and video editing with artificial intelligence (AI) at the intersection of technology and the arts. AI-powered tools and algorithms have revolutionized the way we edit and enhance visual content, opening up new possibilities for creativity and artistic expression. This chapter delves into the techniques, applications, and implications of AI in image and video editing.
 

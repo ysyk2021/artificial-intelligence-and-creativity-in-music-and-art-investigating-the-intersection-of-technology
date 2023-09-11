@@ -1,5 +1,4 @@
-Chapter 6: Google's DeepDream Art Project
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the captivating world of Google's DeepDream art project, which showcases the intersection of artificial intelligence and creativity in music and art. DeepDream is a deep learning algorithm developed by Google that generates surreal and dream-like images through intricate pattern recognition. This chapter delves into the techniques, impact, and artistic implications of Google's DeepDream art project.
 

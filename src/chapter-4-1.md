@@ -1,5 +1,4 @@
-Chapter 5: Generative Art and Visualizations
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the fascinating realm of generative art and visualizations, exploring how artificial intelligence intersects with creativity in music and art. Generative art refers to the use of algorithms, AI, and computational systems to create artwork that evolves, self-generates, or responds to various inputs. This chapter examines the techniques, applications, and impact of generative art and visualizations on the artistic landscape.
 

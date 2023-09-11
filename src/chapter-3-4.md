@@ -1,5 +1,4 @@
-Chapter 8: Music Recommendation and Discovery
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the fascinating realm of music recommendation and discovery within the intersection of artificial intelligence (AI), technology, music, and art. The advancements in AI have revolutionized how we discover and consume music, providing personalized recommendations and expanding our musical horizons. This chapter delves into the intricacies of music recommendation systems, their impact on artistic exploration, and the challenges they pose.
 

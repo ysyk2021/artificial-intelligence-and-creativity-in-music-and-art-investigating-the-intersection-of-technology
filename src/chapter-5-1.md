@@ -1,5 +1,4 @@
-Chapter 9: Ownership and Authorship of AI-Generated Works
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the complex and evolving landscape of ownership and authorship within the intersection of artificial intelligence (AI), technology, music, and art. As AI algorithms increasingly contribute to the creation of original works, questions arise about who should be considered the owner and author of these AI-generated creations. This chapter explores the legal, ethical, and philosophical dimensions of ownership and authorship in the context of AI-driven creative endeavors.
 

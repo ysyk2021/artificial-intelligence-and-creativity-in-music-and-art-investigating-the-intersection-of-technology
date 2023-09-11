@@ -1,5 +1,4 @@
-Chapter 8: Interactive Installations and Exhibitions
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the captivating world of interactive installations and exhibitions, exploring how artificial intelligence intersects with creativity in music and art. Interactive installations offer immersive experiences that engage and interact with the audience, blurring the line between observer and participant. This chapter examines the techniques, impact, and artistic implications of interactive installations and exhibitions at the intersection of technology and the arts.
 
